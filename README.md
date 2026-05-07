@@ -2,6 +2,9 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit_Serendib_Yatra-1e3a8a?style=for-the-badge&logo=google-chrome)](https://srilanka.whitecoder.online/)
 
+<img width="1892" height="943" alt="Screenshot 2026-05-08 004613" src="https://github.com/user-attachments/assets/83aec22a-a62c-44b7-8bd3-05c21c25778f" />
+
+
 **Serendib Yatra** is a visually stunning and comprehensive tourism website dedicated to showcasing the pearl of the Indian Ocean—Sri Lanka. From ancient history to breathtaking landscapes, this platform acts as a digital guide for travelers looking to explore the island's beauty.
 
 🌐 **Visit Website:** [https://srilanka.whitecoder.online/](https://srilanka.whitecoder.online/)
